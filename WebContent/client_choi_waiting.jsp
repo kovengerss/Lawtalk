@@ -582,6 +582,10 @@ hr {
   color: transparent;
   text-shadow: 0 0 0 #777;
 }
+
+.blueline{
+	color : black;
+}
 </style>
 <title>로노 | 상담 목록</title>
 </head>
@@ -679,12 +683,12 @@ hr {
 				<div class="banner">
 					<div class="container">
 						<div class="image-wrap">
-							<img class="category-image" src="assets/img/이혼.jpg">
+							<img class="category-image" src="${pageContext.request.contextPath}/assets/img/이혼.jpg">
 						</div>
 						<div class="title-wrap">
 							<div class="title">
 								<div class="top-span">
-									<span>이혼</span>
+									<span>LawKnow 모든 지식글</span>
 								</div>
 								<div class="bottom-span">
 									<small>현직 변호사가 답합니다.</small>
@@ -742,13 +746,13 @@ hr {
 							</div>
 							<div class="sorting">
 								<div class="sort-tabs">
-									<button class="-acrive">
-									<a href="${pageContext.request.contextPath}/userWrite/SelectSeeCountOk.uw">인기순</a>
-									</button>
+									<span class="-acrive">
+									<a  class ="blueline"href="${pageContext.request.contextPath}/userWrite/SelectSeeCountOk.uw">인기순</a>
+									</span>
 									|
-									<button>
-									<a href="${pageContext.request.contextPath}/userWrite/SelectChoiOk.uw">최신순</a>
-									</button>
+									<span>
+									<a  class ="blueline" href="${pageContext.request.contextPath}/userWrite/SelectChoiOk.uw">최신순</a>
+									</span>
 								</div>
 							</div>
 						</div>
@@ -1035,7 +1039,7 @@ hr {
 							</div>
 						</div>
 						<div class="content" id ="answer-waiting" style ="display: none;">
-							<div class="a-card-question-list">
+						<!-- 	<div class="a-card-question-list">
 								<aside class="a-card-aside-card">
 									<div class="a-wrapper">
 										<div class="badge">
@@ -1062,7 +1066,7 @@ hr {
 										<span class="answer">2시간전 답변 작성됨</span>
 									</div>
 								</div>
-							</div>
+							</div> -->
 							
 					<!--  -->	
 						<c:forEach var="userWrite" items="${userWriteList}">
