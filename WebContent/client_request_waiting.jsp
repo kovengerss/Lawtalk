@@ -194,13 +194,9 @@
 							</div>
 							<div class="sorting">
 								<div class="sort-tabs">
-									<span class="-acrive">
-									<a  class ="blueline"href="${pageContext.request.contextPath}/userWrite/SelectSeeCountOk.uw">인기순</a>
-									</span>
-									|
-									<span>
-									<a  class ="blueline" href="${pageContext.request.contextPath}/userWrite/SelectChoiOk.uw">최신순</a>
-									</span>
+								<input type="button" value="인기순" class="primary" onclick="location.href = '${pageContext.request.contextPath}/userWrite/SelectSeeCountOk.uw'"/>
+                           |
+                           <input type="button" value="최신순" class="primary" onclick="location.href = '${pageContext.request.contextPath}/userWrite/SelectChoiOk.uw'"/>
 								</div>
 							</div>
 						</div>
