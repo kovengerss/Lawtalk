@@ -49,7 +49,7 @@ function showList(comments){
         	text +=	"<div class='a-wrapper'>"
         	text +=	"<div class='badge'>"
         	text += "<img style='width: 21px;' src='http://rgo4.com/files/attach/images/2681740/530/423/028/872b2e6252060b8106541411529ba773.png'>"	
-        	text += "<p class ='number'>" + "</p>"
+        	text += "<p class ='number'>" + "0" + "</p>"
         	text += "</div>"
         	text +=	"</div>"          
         	text += "</aside>"	

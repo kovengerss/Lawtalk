@@ -184,12 +184,18 @@
 									<header class="a-card-header">
 										<h1 class="a-card-header-title">
 											<img class="question-img" src="assets/img/questionpng.png">
-											전남편이 돈을 주지 않고 있습니다. 빨리받는 방법이 있나요? 
+											사실혼 손해배상청구 가능한가요?
 										</h1>
 										<span class="a-card-headerInfo">2022. 05. 06. 21:05</span>
 									</header>
 									<div class="a-card-content">
-										결혼2개월만에 이혼하기로 했고, 혼인신고는 안해서 신혼집 만 처리하면 됩니다(이전 결혼식에 들어간 비용 및 혼수는 각자 처분하는 것으로 협의) 결혼 전, 신혼집은 매매 5억 아파트로, 저 1억 + 남편 1억5천 + 주택담보대출(남편명의, 남편 아버지 회사에서 갚아줌)로 계약했고, 이 당시 남편의 단독명의로 계약했습니다. 저는 3천만원을 계약금으로 이전 소유주에게 송금하고 7천만원을 매매계약 담당 법무사에게 송금한 기록 남아있습니다. 현재 아파트의 실 거래가는 5억 3천이나, 남편은 본 아파트를 5억 8천에 내놓았으며 2년미만 소유시에 양도소득세가 70%에 달한다는 부동산 중개인의 말을 듣고 전세도 함께 내놓은 상태입니다. (전세 실거래 3억 3천, 본 매물은 3억 5천에 올려놓음) 남편은 거래가 성사되면 1억을 갚겠다는 이야기를 하며 저랑 얘기할때는 협조적인 태도를 보이나 실제 부동산 중개인과 확인해본 결과, 비 협조적이더라구요. 중개인 말에 따르면, 남편은 본 매매거래가 급하지 않다며 실제 전세를 보러왔던 사람이 3억 3천에 거래하고 싶다고 했는데 이를 거절하고 3억 5천 밑으로는 받을 생각이 없다고 한거죠. 본인돈 1억 5천 들어갔으니 손해보고 싶지 않다는 생각이겠죠. 가뜩이나 거래도 되지 않는데, 가격도 높으니 보러오는 사람은 당연히 없구요. 저는 3개월의 기간을 주고 최대 7월 말까지는 처리해달라 했는데, 남편은 부동산 거래가 되기 전까지는 돈을 갚을 수 없다고 계속 똑같은 얘기만 합니다. 저는 차용증을 작성한 것도 아니고, 집의 명의또한 남편의 명의이기 때문에 법적소송을 고려하지 않았을 때 부탁을 할 수 밖에 없는 상황이네요.. 저는 최대한 불화 만들지 않고자 남편이 요구한 것들을 모두 들어준 상태입니다. ( 폐백 절값, 2개월간 함께 모은 현금의 반 등등 현재 가지고 있는 남편의 자산, 650만원을 송금) 어떻게하면 빨리받을수 있을까요?
+										사실혼 손해배상청구 가능한가요?
+제목대로 사실혼 5년 정도 되었고 상대방의 정신적인
+폭력 때문에 정리하려고 합니다.총 5년 중 생활비는
+거의 제가 다 부담했으며 가사노동도 저 혼자 다 
+했습니다. 저도 일을 하기 때문에 집안일을 병행하기
+힘들어 나눠하자고 제안했지만 그때마다 상대로부터
+ 들면 집안일을 하지 말라는 말만 들었습니다.
 										</div>
 										<div class="a-card-footer">
 											<span class="viewCount">
@@ -215,13 +221,13 @@
 									
 									
 										<button type="button" class="answer-button" id="click" onclick="insert()">답변등록</button>
+							<h4 class="section-title">LawKnow 변호사님들의 답변</h4>
 					 		<div id="comments" class="comment" style="flex-direction:column; margin:0; display:contents;"></div>			
 								</form>				
 								
-							<h4 class="section-title">총 1개의 답변이 있습니다.</h4>
 							
 								
-								<div class="a-card-question-list">  							<!-- 여기 부터 form;; -->
+								<!-- <div class="a-card-question-list">  							여기 부터 form;;
 									<aside class="a-card-aside-card">
 										<div class="a-wrapper">
 											<div class="badge">
@@ -264,7 +270,7 @@
 											<span class="answer">2시간전 답변 작성됨</span>
 										</div>
 									</div>
-								</div>
+								</div> -->
 								
     				
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>

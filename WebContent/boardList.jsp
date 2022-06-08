@@ -735,7 +735,7 @@ position: relative;
 	
 	<nav class="header-nav directive">
             <a class ="left" href="mypage.jsp">
-                <img  class = "lefthwa"src = "assets/img/왼화살jpg.jpg">
+                <img  class = "lefthwa"src = "${pageContext.request.contextPath}/assets/img/왼화살jpg.jpg">
             </a>
             <h3 class="title">
                 <a class = "maintitles">MY LAWKNOW 지식인</a>
