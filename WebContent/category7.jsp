@@ -674,12 +674,12 @@ hr {
 				<div class="banner">
 					<div class="container">
 						<div class="image-wrap">
-							<img class="category-image" src="assets/img/상속.jpg">
+							<img class="category-image" src="${pageContext.request.contextPath}/assets/img/형사기타.jpg">
 						</div>
 						<div class="title-wrap">
 							<div class="title">
 								<div class="top-span">
-									<span>상속</span>
+									<span>형사기타</span>
 								</div>
 								<div class="bottom-span">
 									<small>현직 변호사가 답합니다.</small>
@@ -703,7 +703,7 @@ hr {
 								<a class="" href="http://localhost:9000/kovengerss/client_request_waiting.jsp">이혼</a>
 							</li>
 							<li>
-								<a class="choice "href="http://localhost:9000/kovengerss/category2.jsp">상속</a>
+								<a href="http://localhost:9000/kovengerss/category2.jsp">상속</a>
 							</li>
 							<li>
 								<a href="http://localhost:9000/kovengerss/category3.jsp">성범죄</a>
@@ -718,7 +718,7 @@ hr {
 								<a href="http://localhost:9000/kovengerss/category6.jsp">기업일반</a>
 							</li>
 							<li>
-								<a href="http://localhost:9000/kovengerss/category7.jsp">형사기타</a>
+								<a  class="choice " href="http://localhost:9000/kovengerss/category7.jsp">형사기타</a>
 							</li>
 						</ul>
 					</div>
