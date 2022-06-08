@@ -384,7 +384,7 @@ position: relative;
                            </c:choose> 
                         <hr />
                         <!-- 내용 -->
-                        <h3><pre>${userWrite.getContent()}</pre></h3>
+                        <h3><pre style="overflow: auto;">${userWrite.getContent()}</pre></h3>
                      </section>
                    <!--   <section class="main accent2" style="padding:3%">
                         <header class="major" style="text-align:left;">
