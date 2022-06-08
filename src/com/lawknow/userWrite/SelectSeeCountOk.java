@@ -27,7 +27,7 @@ public class SelectSeeCountOk implements Action {
 		
 		UserDAO userDAO = new UserDAO();
 		UserWriteDAO userWriteDAO = new UserWriteDAO();
-
+		
 		int total = userWriteDAO.getTotal();
 		
 		req.setAttribute("userWriteList", userWriteDAO.selectSeeCount()); // 그럼 여기에는 총 글 목록!
